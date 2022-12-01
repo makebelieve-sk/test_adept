@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Companies_list",
+  "name": "Companies_list on react, redux and typescript",
   "icons": [
     {
       "src": "favicon.ico",
